@@ -1,0 +1,1 @@
+# Extra tickers to always check (one per line). Yahoo screeners + trending are scanned automatically.
