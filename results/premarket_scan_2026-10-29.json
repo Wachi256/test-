@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T09:41:54-04:00",
+  "criteria": {
+    "min_gap_percent": 5.0,
+    "min_price": 3.0,
+    "min_premarket_volume": 50000
+  },
+  "count": 0,
+  "results": []
+}
